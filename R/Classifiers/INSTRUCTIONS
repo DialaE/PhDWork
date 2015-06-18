@@ -1,0 +1,6 @@
+Instructions
+
+In order to use the code in this folder, run the following command:
+
+R --vanilla < Classifiers_R.R
+
